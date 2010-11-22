@@ -1,0 +1,2 @@
+Esta aplicação pretende ser uma framework de logging para aplicações .NET
+com possibilidade de escrita concorrente (threadsafe) e multi ambiente
